@@ -1,0 +1,19 @@
+body {
+    background-color:bisque;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+h1 {
+    font-size: 50pt;
+    margin-bottom: 300px;
+}
+p {
+    font-size: 20pt;
+}
+.red-text {
+    color: red;
+}
+#name {
+    font-size: 200pt;
+    color: blue;
+}
